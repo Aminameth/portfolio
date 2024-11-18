@@ -1,0 +1,276 @@
+body{
+    background-color:rgb(168, 57, 57) ;
+}
+nav{
+    font-family: "Edu AU VIC WA NT Pre", cursive;
+    display: flex;
+    justify-content: end;
+    margin-top: 5px;
+    color: rgb(75, 55, 55);
+    font-style: italic;
+    position: fixed;
+    border-right-width: 1px;
+    border-right-style: solid;
+    margin-right: 3px;
+    height: 50.133px;
+    width: 1063.183px;
+    padding-top: 0px;
+    border-top-width: 0px;
+    border-top-style: solid;
+    margin-top: -8px;
+    margin-left: -8px;
+    padding-right: 8px;
+    background-color: #d55e5e ;
+    font-weight: bold;
+   text-decoration: ;
+}
+h1{
+    font-family: "Archivo Black", sans-serif;
+    font-size: 125px;
+    margin-top: 50px;
+    color: rgb(75, 55, 55);
+}
+header{
+    display: flex;
+    justify-content: center;
+}
+#sec1 img {
+    width: 400px;
+    margin-top: 50px;
+    box-shadow: 5px 5px 5px rgb(70, 65, 65) ;
+}
+#sec1{
+    display: flex;
+    justify-content: end;
+    margin-left: 30px;
+}
+#sec1 h2{
+    margin-left: 84px;
+}
+#sec1 p{
+    font-size: 17px;
+    padding: 40px;
+    line-height: 27px;
+    font-style: italic;
+    font-weight: 100px;
+    color: rgb(59, 44, 44);
+}
+#sec1 a{
+    margin-left: 58px;
+    color:rgb(75, 55, 55) ;
+    font-weight: bold;
+} 
+h2{
+    font-family: "Archivo Black", sans-serif;
+    margin-left: 224px;
+    letter-spacing: 5px;
+    color:rgb(242, 211, 163) ;
+}
+p{
+    font-family: "Asap", sans-serif;
+    text-align: center;
+}
+#sec2 img{
+    width: 400px;
+    box-shadow: 5px 5px 5px  rgb(70, 65, 65);
+    margin-top: 20px;
+}
+#sec2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 120px;
+    margin-right: 40px ;
+}
+#sec2 h2{
+    margin-left: 65px;
+}
+#sec2 p{
+   font-size: 17px;
+   padding: 30px;
+   line-height: 27px;
+    font-style: italic;
+    font-weight: 100px;
+    color: rgb(59, 44, 44);
+}
+#sec2 a{
+    margin-left: 57px;
+    color: rgb(75, 55, 55);
+    font-weight: bold;
+}
+#sec3 img{
+    width: 40px;
+    margin-left: 50px;
+    margin-top: 250px;
+    height: 39px;
+    background-color: rgb(242, 211, 163);
+    box-shadow: 5px 5px 5px rgb(70, 65, 65) ;
+}
+#sec3{
+    display: flex;
+    justify-content: center;
+    margin-top: -13px;
+}
+#sec3 p{
+    font-size: 17px;
+   padding: 30px;
+   line-height: 27px;
+    font-style: italic;
+    font-weight: -231px;
+    padding-left: 156px;
+    color: rgb(59, 44, 44);
+}
+ul{
+    margin-left: 371px;
+    margin-top: -21px;
+    font-size: 21px;
+    color: rgb(59, 44, 44);
+}
+#divlogo{
+    display: flex;
+    justify-content: center;
+    
+}
+#projet{
+    margin-right: 30px;
+}
+#divcompet{
+    margin-top: 80px;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+h3{
+    font-family: "Archivo Black", sans-serif;
+    font-size: 17px;
+}
+#secreseaux{
+    display: flex;
+    flex-direction: column;
+}
+footer a {
+    color:rgb(59, 44, 44) ;
+}
+footer{
+    padding-top: 109px;
+}
+form{
+    color:rgb(59, 44, 44) ;
+}
+#sec4{
+    margin-top: 90px;
+}
+#sec4 p{
+    font-size: 17px;
+    line-height: 27px;
+    font-style: italic;
+    color: rgb(59, 44, 44);
+    padding-left: 50px;
+    padding-right: 246px;
+}
+#sec4 h2{
+    margin-bottom: 38px;
+    margin-left: 117px;
+}
+#sec5{
+    margin-top: 100px;
+}
+#sec5 img{
+    width: 288px;
+    height: 148px;
+    margin-left: 17px;
+    padding-bottom: 20px;
+}
+#sec5 h2{
+    margin-bottom: 48px;
+    margin-left: 65px;
+}
+#sec5 h3{
+    margin-left: 23px;
+    margin-top: 75px;
+    letter-spacing: 3px;
+    
+}
+#h3guideimg{
+    text-align: end;
+    margin-right: 43px;
+}
+#divimgguide{
+    margin-left: 90px;
+}
+#divmecontacter{
+    margin-left: 83px;
+    margin-top: -38px;
+}
+#divmesuivre{
+    margin-right: 95px;
+    margin-top: -38px;
+}
+hr{
+    color: rgb(10, 0, 0);
+}
+#trait1{
+    margin-top: 80px;
+}
+#trait2{
+    margin-top: 100px;
+}
+#trait4{
+    margin-top: 72px;
+}
+#trait5{
+    margin-top:65px;
+}
+#amina2{
+    font-size: 150px;
+    margin-top: 50px;
+    margin-left: 26px;
+    border-bottom-width: 0px;
+    border-bottom-style: solid;
+    margin-bottom: 7.35px;
+    color:rgb(75, 55, 55) ;
+    letter-spacing: 25px;
+}
+a{
+    color:rgb(75, 55, 55) ;
+}
+#lienhautpage{
+    font-weight: 10px;
+    margin-top: 40px;
+    margin-top: 41px;
+    margin-bottom: -26px;
+    margin-right: 677px;
+    color: rgb(59, 44, 44);
+    
+}
+button{
+    border-radius: -1px;
+    background-color: rgb(75, 55, 55);
+    color: rgb(242, 211, 163);
+    padding-bottom: 2px;
+    padding-top: 2px;
+}
+button:hover{
+    background-color: rgb(117, 93, 64);
+}
+#boutongalerie {
+    margin-right: 56px;
+    margin-left: 457px;
+    width: 92px;
+    height: 33px;
+    border-radius: 2px;
+    box-shadow: 3px 3px 9px rgb(208, 190, 160);
+    color:rgb(242, 211, 163) ;
+    background-color:rgb(75, 55, 55) ;
+}
+#boutongalerie:hover{
+    background-color: rgb(117, 93, 64);
+}
+
+@media only screen and (max-width: 600px) {
+    #sec4 p {
+      padding-left: 10px;
+    }
+  }
